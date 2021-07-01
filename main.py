@@ -11,7 +11,6 @@ mouseDown = False
 
 def on_mouse_up(event):
     global mouseDown
-    print('mouse up')
     mouseDown = ~mouseDown
 
 
