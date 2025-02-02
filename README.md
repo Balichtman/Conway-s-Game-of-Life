@@ -1,8 +1,9 @@
 # Conway-s-Game-of-Life
-A python version of Conway's game of life program
+<h1>Requirements:</h1>
+Python 3
 <br/>
-click mouse button 1 to start drawing (doesn't detect first square you click on) 
-<br/>
-click again to stop drawing
-<br/>
+<h1>How to 'play'</h1>
+Simply start playing by clicking the 'mouse-1' button (left mouse click) anywhere on the program UI. 
+<h1>About:</h1>
 This simulation uses the standard rules for Conway's game of life found here: [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
